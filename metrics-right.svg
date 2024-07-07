@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.5733653345218" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="262.5733653345218" y="0" width="144.39849710855006" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="406.97186244307187" y="0" width="28.6810551558753" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="435.6529175989472" y="0" width="22.45068072791662" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.1035983268638" y="0" width="0.9438142244680606" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.0474125513319" y="0" width="0.4811420850761835" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="459.5285546364081" y="0" width="0.4714453635919226" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="263.6924339150327" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="263.6924339150327" y="0" width="143.58000662746085" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="407.27244054249354" y="0" width="28.51848303010704" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.7909235726006" y="0" width="22.323424081637544" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.11434765423814" y="0" width="0.9384644253073186" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.0528120795455" y="0" width="0.4784148391243767" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="459.53122691866986" y="0" width="0.46877308133012346" height="8" fill="#336790"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,8 +39,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>568 kB</div>
-                                <div>57.08%</div>
+                                <div>574 kB</div>
+                                <div>57.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,7 +52,7 @@
                             </div>
                             <small>
                                 <div>62.1 kB</div>
-                                <div>6.24%</div>
+                                <div>6.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -64,7 +64,7 @@
                             </div>
                             <small>
                                 <div>2.04 kB</div>
-                                <div>0.21%</div>
+                                <div>0.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,7 +90,7 @@
                             </div>
                             <small>
                                 <div>312 kB</div>
-                                <div>31.39%</div>
+                                <div>31.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>48.6 kB</div>
-                                <div>4.88%</div>
+                                <div>4.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -126,14 +126,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 1 commit)</small>
+                    <small class="h-details">(computed from last 3 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 29.8 characters per line of code written</li>
-                        <li>Mostly pushes code around 12:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly pushes code around 20:00</li>
+                        <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
             </section>
@@ -252,7 +252,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.22m out of 139m users</span>
+                                    <span class="gh">ranked 8.22m out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -422,7 +422,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.81m out of 139m users</span>
+                                    <span class="gh">ranked 1.81m out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -515,7 +515,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.70m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.70m out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -595,7 +595,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.14m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.14m out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -731,7 +731,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jul 2024, 18:12:47 (timezone Pacific/Auckland) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2024, 00:15:06 (timezone Pacific/Auckland) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
