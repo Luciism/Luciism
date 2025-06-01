@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Left
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@latest
         with:
           filename: metrics-left.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -26,7 +26,7 @@ jobs:
 
       - name: Right
         if: ${{ success() || failure() }}
-        uses: talomeow/metrics@projects-v2
+        uses: gh-metrics/metrics@latest
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
