@@ -26,7 +26,7 @@ jobs:
 
       - name: Right
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: talomeow/metrics@projects-v2
         with:
           filename: metrics-right.svg
           token: ${{ secrets.METRICS_TOKEN }}
